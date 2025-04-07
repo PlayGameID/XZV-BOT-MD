@@ -5,3 +5,6 @@ English=
 This bot is not perfect and needs to be improved...
 
 ## Cara menginstall bot
+
+```bash
+helo
